@@ -3,7 +3,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=MananSharma78&color=blue)
 
 ## 👨‍💻 About Me
-- 🎓 **CSE Student** passionate about full-stack development & scalable systems  
 - 💻 **Working on:** MERN stack, Java & C++ DSA  
 - 🤖 **Interested in:** AI, Machine Learning & Deep Learning   
 - 📍 From India  
