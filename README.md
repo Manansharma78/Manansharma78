@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=MananSharma78&color=blue)
 
 ## 👨‍💻 About Me
-- 💻 **Working on:** MERN stack, Java & C++ DSA  
+- 💻 **Working on:** MERN stack, Java & LLMs  
 - 🤖 **Interested in:** AI, Machine Learning & Deep Learning   
 - 📍 From India  
 
