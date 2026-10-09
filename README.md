@@ -2,25 +2,21 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MananSharma78&color=blue)
 
-## 👨‍💻 About Me
-- 💻 **Working on:** MERN stack, Java & LLMs  
-- 🤖 **Interested in:** AI, Machine Learning & Deep Learning   
-- 📍 From India  
-
----
+##  About Me
+- 💻 **Working on:** MERN stack, Java 
 
 ## 🛠 Skills & Tools  
 **Languages:**  
-- Java , C++ , JavaScript , Python  
+- Java , JavaScript , Typescript.
 
 **Frontend:**  
-- React.js , Next.js , Tailwind CSS , HTML5 , CSS3  
+- React.js , Next.js , Tailwind CSS , HTML5.  
 
 **Backend:**  
-- Node.js , Express.js , REST APIs , JWT Auth  
+- Node.js , Express.js , REST APIs. 
 
 **Database & DevOps:**  
-- MongoDB , SQL , Git , GitHub , Postman  
+- MongoDB , SQL 
 
 ---
 
@@ -37,6 +33,3 @@
 - 📧 **Email:** manan001sharma@gmail.com  
 
 ---
-
-## ⚡ Fun Fact
-I'm becoming the kind of developer whose GitHub profile people will *𝐫𝐞𝐦𝐞𝐦𝐛𝐞𝐫*. 
