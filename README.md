@@ -1,8 +1,6 @@
 # Hello there 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MananSharma78&color=blue)
-
-##  About Me
 - 💻 **Working on:** MERN stack, Java 
 
 ## 🛠 Skills & Tools  
