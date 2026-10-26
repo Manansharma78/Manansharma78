@@ -5,7 +5,7 @@
 
 ## 🛠 Skills & Tools  
 **Languages:**  
-- Java , JavaScript , Typescript.
+- JavaScript , Typescript.
 
 **Frontend:**  
 - React.js , Next.js , Tailwind CSS , HTML5.  
