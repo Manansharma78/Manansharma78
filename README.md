@@ -27,7 +27,6 @@
 
 ## 🔗 Links
 - 💼 **LinkedIn:** https://www.linkedin.com/in/manan-sharma-9a266a285/  
-- 🧠 **LeetCode:** https://leetcode.com/Manan_sh/  
 - 📧 **Email:** manan001sharma@gmail.com  
 
 ---
